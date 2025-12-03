@@ -1,4 +1,4 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oneoneniaoniao&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
 
-
+![](https://skillicons.dev/icons?i=html,css,js,typescript,python,php)
 
